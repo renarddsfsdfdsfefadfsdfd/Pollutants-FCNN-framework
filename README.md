@@ -4,6 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.8+](https://img.shields.io/badge/Python->=3.8-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-red.svg)](https://pytorch.org/)
+**暨南大学环境与气候学院 张耀霖 Email：zhangyaolin@stu2022.jnu.edu.cn**
 
 **Pollutants-FCNN** 是一个基于多任务学习（Multi-Task Learning, MTL）和前馈神经网络（FCNN）的计算毒理学框架。该项目旨在利用深度学习技术对环境污染物进行高效、低成本的毒性预测，替代或辅助传统高成本、耗时的动物实验。
 
